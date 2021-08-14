@@ -1,4 +1,3 @@
 # Middleware for Swagger projects
-
-Check out [Swagger](https://www.npmjs.com/package/swagger) for all your Swagger utility
-and Swagger-driven API project needs!
+## Attention:
+This is fork of [apigee-127/swagger-node-runner](https://github.com/apigee-127/swagger-node-runner)
